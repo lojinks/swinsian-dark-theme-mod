@@ -1,5 +1,5 @@
 # swinsian-dark-theme-mod
-A desktop theme for [Swinsian](https://swinsian.com) with cover art, artist/album/song, and back/forward/play/pause buttons. The buttons are hidden until you mouseover the cover art.
+A desktop theme for [Swinsian](https://swinsian.com) with cover art, artist/album/song, and back/forward/play/pause buttons. The buttons are hidden until you mouseover the cover art. Based on [Oloar's theme](https://github.com/Oloar/Minimaltheme).
 
 ### Installation
 * Download the [latest release]
